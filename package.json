@@ -1,0 +1,13 @@
+{
+  "name": "lib-generate-code",
+  "version": "1.0.0",
+  "description": "lib generate code random",
+  "main": "index.js",
+  "keywords": ["random", "code", "generate", "lib", "pass", "password"],
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.test.js"
+  },
+  "author": "Mauricio G. Lúquez",
+  "license": "ISC"
+}
