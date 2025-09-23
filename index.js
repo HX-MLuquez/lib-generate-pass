@@ -1,8 +1,8 @@
 (function (global) {
   const characterTypes = {
     uppercase: "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
-    lowercase: "abcdefghijklmnopqrstuvwxyz",
-    consonant: "bcdfghjklmnpqrstvwxyz",
+    lowercase: "abcdefghijklmnopqrstuvwxyzñ",
+    consonant: "bcdfghjklmnpqrstvwxyzñ",
     vocal: "aeiou",
     number: "0123456789",
     special: "!@#$%^&*_+~|:?></-=",
