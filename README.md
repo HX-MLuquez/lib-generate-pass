@@ -2,6 +2,11 @@
 
 Esta librería posee un método generatePassword que se le pasan dos parámetros y con ello nos genera un password.
 
+## Niveles:
+* Cantidad de caractéres  entre 4 & 24
+* Human: entre human1 a human5
+
+
 Ejemplo de uso:
 
 ```js
