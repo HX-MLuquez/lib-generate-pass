@@ -1,6 +1,6 @@
 (function (global) {
   const characterTypes = {
-    uppercase: "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+    uppercase: "ABCDEFGHIJKLMNÑOPQRSTUVWXYZ",
     lowercase: "abcdefghijklmnopqrstuvwxyzñ",
     consonant: "bcdfghjklmnpqrstvwxyzñ",
     vocal: "aeiou",
