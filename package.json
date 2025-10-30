@@ -1,6 +1,6 @@
 {
   "name": "lib-generate-code",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "lib generate code random",
   "main": "index.js",
   "keywords": ["random", "code", "generate", "lib", "pass", "password"],
